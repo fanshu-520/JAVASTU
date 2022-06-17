@@ -1,0 +1,2 @@
+public class Work7 {
+}
